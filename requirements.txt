@@ -1,0 +1,6 @@
+typing-extensions
+groq
+google-cloud-bigquery
+psycopg2-binary
+streamlit
+
